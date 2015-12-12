@@ -20,6 +20,12 @@ It uses the "Elm Architecture" pattern.
 
 *Model, view, update*
 
+## Running an app
+
+Just run `elm reactor` in the directory. This doesn't work so well for embedding generated JS in a page, but more than fine for learning.
+
+There is an argument that if you're separating styles from behaviour this enforces good habits anyway.
+
 
 ## Exercise 1
 
