@@ -26,9 +26,9 @@ It uses the "Elm Architecture" pattern.
 ### Purpose
 Just a simple example of elm architecture, showing a button which toggles the casing of a string
 
-*Model* - A string and it's current case
-*View* - A h1
-*Update* - Toggle.
+- *Model* A string and it's current case
+- *View* A h1
+- *Update* Toggle.
 
 ## Exercise 2
 
